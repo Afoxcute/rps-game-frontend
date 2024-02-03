@@ -13,6 +13,7 @@ Users can choose if they want to bet with ROCK, PAPER or SCISSORS
 After clicking on PLAY, there is a timer for the house to determine if they want to choose ROCK, PAPER or SCISSORS.
 
 If the bet type is the same with the user bet type, the user wins but if it is not the user lose
+
 Users can play unlimited game
 
    LINKS
