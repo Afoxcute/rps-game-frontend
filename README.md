@@ -25,3 +25,5 @@ Users can play unlimited game
 
    
    Pictures and video demo of the project:https://drive.google.com/drive/folders/1HtxmhCFGpu4Rzpfe2VkuiRdxnCQwwX-Y
+
+   Link to the demo:https://solarps.myappa.tech/
