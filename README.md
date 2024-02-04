@@ -18,7 +18,7 @@ Users can play unlimited game
 
    LINKS
    
-   Backend repo link:https://github.com/Afoxcute/rps-game-backend
+   Backend repo link:[https://github.com/Afoxcute/rps-game-backend](https://github.com/Afoxcute/rps-backend)
 
    
    Smart Contract repo link :https://github.com/Afoxcute/rps-game-SC
