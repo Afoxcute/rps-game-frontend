@@ -16,6 +16,10 @@ If the bet type is the same with the user bet type, the user wins but if it is n
 
 Users can play unlimited game
 
+Winners get double of the bet amount 
+
+History/Leaderboard of the users thar have played the gsnr1is available 
+
    LINKS
    
    Backend repo link:[https://github.com/Afoxcute/rps-game-backend](https://github.com/Afoxcute/rps-backend)
