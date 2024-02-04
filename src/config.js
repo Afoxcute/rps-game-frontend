@@ -2,7 +2,7 @@ export const BET_TYPE_ROCK = "rock";
 export const BET_TYPE_PAPER = "paper";
 export const BET_TYPE_SCISSORS = "scissors";
 
-export const BACKEND_URL = "http://localhost:5438";
+export const BACKEND_URL = "http://3.83.135.177:5438";
 
 export const SUPPORTED_TOKEN_INFO = [
   {
